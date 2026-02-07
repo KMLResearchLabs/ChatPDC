@@ -1,4 +1,8 @@
 # ChatPDC
+
+!!! < LINK PARA CRIAR SUA CHAVE API DA GROQ: https://console.groq.com/keys > !!!
+< NÂO ESQUEÇA DE COLOCÁ-LA NA .ENV >
+
 O Chat com as respostas mais precisas e certas do mundo
 
 Para mandar mensagem só digitar e dar enter
