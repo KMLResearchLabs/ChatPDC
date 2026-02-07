@@ -4,10 +4,10 @@ O Chat com as respostas mais precisas e certas do mundo
 Para mandar mensagem só digitar e dar enter
 
 Comandos:
-HELP - Show all commands
-CLEAR - Clean the terminal
-QUIT - Quit ChatPCD
-SELECT - Change ChatPDC Mode
+HELP - Mostra os comandos
+CLEAR - Limpa o terminal
+QUIT - Sair do ChatPDC
+SELECT - Mudar o modo de resposta
 
 Modos:
 1. Normal: Preciso e acertivo
